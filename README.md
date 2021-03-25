@@ -13,7 +13,7 @@ The actual problem statement for this algorithm was asked by Clement Mihailescu 
 ```
 
 ## Prerequisites :key:
-:small_blue_diamond: basic understanding of algorithmic complexity<br />
+:small_blue_diamond: Basic understanding of algorithmic complexity<br />
 :small_blue_diamond: Greedy algorithm
 
 ## Understanding The Code :coffee:
