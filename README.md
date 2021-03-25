@@ -20,7 +20,7 @@ The actual problem statement for this algorithm was asked by Clement Mihailescu 
 Please read the code carefully everything is written in the comments, if you still have difficulty understanding the code then dryrun the code hopefully it will make the concept clear for you.
 
 ## FAQ
-**1. How to compile and run c++ code?**
+**1. How to compile and run c++ code?**\n
 **Linux**
 ```terminal
 $ g++ filename.cpp -o outputFile
