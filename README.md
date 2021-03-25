@@ -1,7 +1,7 @@
 # scheduling-problem-algorithm
 This is the solution of a Google Interview Question asked in a video (Google Coding Interview With A College Student) in Clement Mihailescu's channel
 
-## Libraries Required
+## Libraries Required :computer:
 ```c++
 #include <iostream>
 #include <string>
