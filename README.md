@@ -17,24 +17,24 @@ The actual problem statement for this algorithm was asked by Clement Mihailescu 
 - Greedy algorithm
 
 ## Understanding The Code :key:
-<p>Please read the code carefully everything is written in the comments, if you still have difficulty understanding the code then dryrun the code hopefully it will make the concept clear for you.</p>
+Please read the code carefully everything is written in the comments, if you still have difficulty understanding the code then dryrun the code hopefully it will make the concept clear for you.
 
 ## FAQ
-<p>1.how to compile and run c++ code?</p>
-<p>Mac OS</p>
+1.how to compile and run c++ code?
+Mac OS
 ```terminal
 g++ filename.cpp -o outputFile
 ./outputFile
 ```
-<p>Windows</p>
+Windows
 ```terminal
 g++ filename.cpp -o outputFile
 outputFile.exe
 ```
 
-<p>2.g++ command not working</p>
-### For Windows
-<p>Install MinGW in your pc and add the path of bin folder in MinGW to system variable 'path'.</p>
+2.g++ command not working
+For Windows
+Install MinGW in your pc and add the path of bin folder in MinGW to system variable 'path'.
 ## For Linux
 ```terminal
 sudo apt-get update
@@ -42,8 +42,8 @@ sudo apt-get upgrade
 sudo apt install g++
 ```
 
-<p>Then open terminal and check the version of your gcc.</p>
+Then open terminal and check the version of your gcc.
 ```terminal
 gcc --version
 ```
-<p>It will show your MinGW version.</p>
+It will show your MinGW version.
