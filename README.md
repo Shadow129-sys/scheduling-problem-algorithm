@@ -12,14 +12,14 @@ The actual problem statement for this algorithm was asked by Clement Mihailescu 
 #include <math.h>
 ```
 
-## Prerequisites
+## Prerequisites :key:
 :small_blue_diamond: basic understanding of algorithmic complexity<br />
 :small_blue_diamond: Greedy algorithm
 
-## Understanding The Code :key:
+## Understanding The Code :bulb:
 Please read the code carefully everything is written in the comments, if you still have difficulty understanding the code then dry run the code hopefully it will make the concept clear for you.
 
-## FAQ
+## FAQ ❓
 :arrow_right_hook: **How to compile and run c++ code?**
 
 **Linux**
