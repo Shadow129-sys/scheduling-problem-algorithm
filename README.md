@@ -23,8 +23,8 @@ Please read the code carefully everything is written in the comments, if you sti
 1.how to compile and run c++ code?
 Mac OS
 ```terminal
-g++ filename.cpp -o outputFile
-./outputFile
+$ g++ filename.cpp -o outputFile
+$ ./outputFile
 ```
 Windows
 ```terminal
@@ -37,9 +37,9 @@ For Windows
 Install MinGW in your pc and add the path of bin folder in MinGW to system variable 'path'.
 ## For Linux
 ```terminal
-sudo apt-get update
-sudo apt-get upgrade
-sudo apt install g++
+$ sudo apt-get update
+$ sudo apt-get upgrade
+$ sudo apt install g++
 ```
 
 Then open terminal and check the version of your gcc.
