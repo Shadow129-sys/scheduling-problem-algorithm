@@ -14,6 +14,7 @@ The actual problem statement for this algorithm was asked by Clement Mihailescu 
 
 ## Prerequisites
 :small_blue_diamond: basic understanding of algorithmic complexity
+
 :small_blue_diamond: Greedy algorithm
 
 ## Understanding The Code :key:
