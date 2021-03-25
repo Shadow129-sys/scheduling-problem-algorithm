@@ -1,7 +1,7 @@
 # scheduling-problem-algorithm
 This is the solution of a Google Interview Question asked in a video (Google Coding Interview With A College Student) in Clement Mihailescu's channel
 
-## Main Video
+## Main Video 📹
 The actual problem statement for this algorithm was asked by Clement Mihailescu in his youtube channel [link](https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g) in the [video](https://www.youtube.com/watch?v=3Q_oYDQ2whs&t=2320s) 
 
 ## Libraries Required :computer:
