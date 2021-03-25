@@ -20,7 +20,7 @@ The actual problem statement for this algorithm was asked by Clement Mihailescu 
 <p>Please read the code carefully everything is written in the comments, if you still have difficulty understanding the code then dryrun the code hopefully it will make the concept clear for you.</p>
 
 ## FAQ
-1.how to compile and run c++ code?
+<p>1.how to compile and run c++ code?</p>
 <p>Mac OS</p>
 ```terminal
 g++ filename.cpp -o outputFile
@@ -32,8 +32,8 @@ g++ filename.cpp -o outputFile
 outputFile.exe
 ```
 
-2.g++ command not working
-### For Windows</p>
+<p>2.g++ command not working</p>
+### For Windows
 <p>Install MinGW in your pc and add the path of bin folder in MinGW to system variable 'path'.</p>
 ## For Linux
 ```terminal
