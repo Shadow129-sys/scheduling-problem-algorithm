@@ -22,12 +22,12 @@ The actual problem statement for this algorithm was asked by Clement Mihailescu 
 ## FAQ
 1.how to compile and run c++ code?
 <p>Mac OS</p>
-```bash
+```terminal
 g++ filename.cpp -o outputFile
 ./outputFile
 ```
 <p>Windows</p>
-```bash
+```terminal
 g++ filename.cpp -o outputFile
 outputFile.exe
 ```
@@ -36,14 +36,14 @@ outputFile.exe
 ### For Windows</p>
 <p>Install MinGW in your pc and add the path of bin folder in MinGW to system variable 'path'.</p>
 ## For Linux
-```bash
+```terminal
 sudo apt-get update
 sudo apt-get upgrade
 sudo apt install g++
 ```
 
 <p>Then open terminal and check the version of your gcc.</p>
-```bash
+```terminal
 gcc --version
 ```
 <p>It will show your MinGW version.</p>
